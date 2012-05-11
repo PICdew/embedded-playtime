@@ -41,6 +41,7 @@ public:
     ADXL345sb(PinName mosi, PinName miso, PinName sck, PinName cs);
     int adxlread(int address);
     void adxlmultibyteread(int address, int numOfBytes, unsigned char *buf);
+    void adxlreadXYZ(float *buf);
     void adxlwrite(int address, int data);
 
 private:
