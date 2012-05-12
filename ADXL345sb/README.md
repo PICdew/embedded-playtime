@@ -1,0 +1,1 @@
+Library for ADXL345 digital accelerometer for MBED microcontrollers

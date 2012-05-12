@@ -1,0 +1,1 @@
+Library for DS18B20 OneWire temperature sensor for PIC mircoprocessors
