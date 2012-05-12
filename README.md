@@ -27,6 +27,6 @@ This is a simple way to get the transmit half of a serial link up and running on
 
 thermistor.c
 
-Basic code which uses a PIC to sample and calulate the temperature measure by a thermistor
+Basic code which uses a PIC to sample and calculate the temperature measure by a thermistor
 
 =================
