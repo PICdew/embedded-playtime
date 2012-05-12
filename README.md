@@ -13,3 +13,8 @@ This is an mbed library to interact with the ADXL345 accelerometer
 
 =================
 
+DS18B20_Onewire
+
+This is a PIC microcontroller library that is dependant on the HITECH C compiler (or though would be very easy to modify)
+
+=================
