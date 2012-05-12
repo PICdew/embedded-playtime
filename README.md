@@ -3,7 +3,7 @@ embedded-playtime
 
 Some of my embedded code
 
-This is a collection of embedded code that I have developed to various levels ove the last year or so. I will add to it as and when.
+This is a collection of embedded code that I have developed to various levels oversince 2009, some of it is very rough and quite nasty but others I am proud of. I will add to it as and when.
 
 =================
 
